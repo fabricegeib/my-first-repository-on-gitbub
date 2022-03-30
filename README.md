@@ -46,6 +46,12 @@ https://username.github.io
 
 # Project site
 
+Use a theme, or start from scratch?
+
+- []()
+- []()
+
 # Resources
 
 - https://pages.github.com/
+- https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch
